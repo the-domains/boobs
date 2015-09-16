@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TRM Design Studios]]></title>
+        <description><![CDATA[TRM Design Studios]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Sep 2015 20:26:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Congratulations - your state made the top 10!]]></title>
+            <description><![CDATA[<article><h1>Congratulations - your state made the top 10!</h1><p>The green building sector is outpacing overall construction growth in the U.S. and will account for more than 2.3 million American jobs this year. This is just one of the exciting findings in the just released USGBC green building economic impact report, prepared by Booz Allen Hamilton.</p><img src="http://go.usgbc.org/rs/562-CSP-589/images/usgbc-logo-feature.png"></article>]]></description>
+            <link>http://go.usgbc.org/index.php/email/emailWebview?mkt_tok=3RkMMJWWfF9wsRokvqnIZKXonjHpfsX57uwvX6CzlMI%2F0ER3fOvrPUfGjI4CSMZqI%2BSLDwEYGJlv6SgFT7bHMaNzyrgIUxg%3D</link>
+            <guid isPermaLink="false">d6b9f637-ed06-4095-80ac-08df43c223f7</guid>
+            <pubDate>Wed, 16 Sep 2015 20:26:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
