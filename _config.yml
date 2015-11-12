@@ -1,6 +1,6 @@
 name: TRM Design Studios
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.74262
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#cbd4d3'
     - '#5b6969'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.9375
   rhythmicContrast: 0.5
